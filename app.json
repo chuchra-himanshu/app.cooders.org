@@ -4,7 +4,7 @@
     "slug": "app.cooders.org",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/LOGO.png",
+    "icon": "./assets/ICON.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -17,14 +17,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/LOGO.png",
+        "foregroundImage": "./assets/ICON.png",
         "backgroundColor": "#101010"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.anonymous.app.cooders.org"
     },
     "web": {
-      "favicon": "./assets/LOGO.png"
+      "favicon": "./assets/ICON.png"
     }
   }
 }
